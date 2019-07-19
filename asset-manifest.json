@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/papastuff/static/css/main.34de6062.chunk.css",
+    "main.js": "/papastuff/static/js/main.8376e7d5.chunk.js",
+    "main.js.map": "/papastuff/static/js/main.8376e7d5.chunk.js.map",
+    "runtime~main.js": "/papastuff/static/js/runtime~main.b94a34f8.js",
+    "runtime~main.js.map": "/papastuff/static/js/runtime~main.b94a34f8.js.map",
+    "static/js/2.d6a534e5.chunk.js": "/papastuff/static/js/2.d6a534e5.chunk.js",
+    "static/js/2.d6a534e5.chunk.js.map": "/papastuff/static/js/2.d6a534e5.chunk.js.map",
+    "index.html": "/papastuff/index.html",
+    "precache-manifest.02a05eaedaa7d8a4176cbb92ec47f167.js": "/papastuff/precache-manifest.02a05eaedaa7d8a4176cbb92ec47f167.js",
+    "service-worker.js": "/papastuff/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/papastuff/static/css/main.34de6062.chunk.css.map"
+  }
+}
